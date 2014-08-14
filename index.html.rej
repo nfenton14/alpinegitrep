@@ -1,0 +1,10 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -5,6 +5,6 @@
+ 	</head>
+ 	<body>
+ 		<p>Added some new content for a revision.</p>
+-		<p>Test comment for new branch and then merge into main.</p>
++		<p>Test comment for new branch and then merge into main. Fuck you Dave.</p>
+ 	</body>
+ </html>
+\ No newline at end of file
